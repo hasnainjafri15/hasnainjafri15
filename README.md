@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @hasnainjafri15
-- 👀 I’m interested in data science to solve real world business problems
-- 🌱 I’m currently learning python and machine learning for data analysis
-- 💞️ I’m looking to collaborate on projects which solve problems in Retail, supply chain and finance
+- 👀 I’m interested in data analytics to solve real worldproblems
+- 🌱 I’m currently learning BI, python and machine learning for data analysis 
 - 📫 you can reach me at hasnainjafri15@gmail.com
 
 <!---
